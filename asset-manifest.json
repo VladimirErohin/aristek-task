@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aristek-task/static/css/main.31f88d37.chunk.css",
+    "main.js": "/aristek-task/static/js/main.167d3f0e.chunk.js",
+    "main.js.map": "/aristek-task/static/js/main.167d3f0e.chunk.js.map",
+    "runtime-main.js": "/aristek-task/static/js/runtime-main.1063ce2d.js",
+    "runtime-main.js.map": "/aristek-task/static/js/runtime-main.1063ce2d.js.map",
+    "static/js/2.43a81875.chunk.js": "/aristek-task/static/js/2.43a81875.chunk.js",
+    "static/js/2.43a81875.chunk.js.map": "/aristek-task/static/js/2.43a81875.chunk.js.map",
+    "static/js/3.3b7020ce.chunk.js": "/aristek-task/static/js/3.3b7020ce.chunk.js",
+    "static/js/3.3b7020ce.chunk.js.map": "/aristek-task/static/js/3.3b7020ce.chunk.js.map",
+    "index.html": "/aristek-task/index.html",
+    "static/css/main.31f88d37.chunk.css.map": "/aristek-task/static/css/main.31f88d37.chunk.css.map",
+    "static/js/2.43a81875.chunk.js.LICENSE.txt": "/aristek-task/static/js/2.43a81875.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1063ce2d.js",
+    "static/js/2.43a81875.chunk.js",
+    "static/css/main.31f88d37.chunk.css",
+    "static/js/main.167d3f0e.chunk.js"
+  ]
+}
