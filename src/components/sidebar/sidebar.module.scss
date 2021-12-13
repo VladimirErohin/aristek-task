@@ -1,0 +1,17 @@
+.sidebar {
+  max-height:100%;
+  box-sizing: border-box;
+  background-color: #550DC9;
+
+  img {
+    margin-top: 24px;
+  }
+
+  @media (max-width: 1200px) {
+    img {
+      max-width: 100%;
+    }
+    max-height:100%;
+    max-width: 10%;
+  }
+}

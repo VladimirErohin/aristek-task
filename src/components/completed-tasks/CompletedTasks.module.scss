@@ -1,0 +1,10 @@
+.completed_tasks{
+  margin-left: 64px;
+  width: 40%;
+}
+@media (max-width: 1200px) {
+  .completed_tasks{
+   width: 100%;
+    margin-left: 0;
+  }
+}
