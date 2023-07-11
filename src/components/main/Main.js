@@ -72,7 +72,6 @@ const Main = () => {
 
     return (
         <div className={m.main}>
-            <Sidebar/>
             <div className={m.content}>
                 <TasksSpace
                     icons={icons}
